@@ -1,0 +1,28 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "description": "Block files generator for roose/boilerplate",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roose/blocks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roose",
+  "license": "MIT",
+  "bin": {
+    "blocks": "./index.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.18.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}

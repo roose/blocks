@@ -16,13 +16,15 @@
     "blocks": "./index.js"
   },
   "dependencies": {
-    "colors": "^1.3.3",
-    "commander": "^2.20.0",
+    "colors": "^1.4.0",
+    "commander": "^3.0.2",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
-    "eslint": "^6.0.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.17.3"
+    "eslint": "^6.5.1",
+    "eslint-utils": ">=1.4.1",
+    "lodash": ">=4.17.13",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }

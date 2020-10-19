@@ -17,14 +17,14 @@
   },
   "dependencies": {
     "colors": "^1.4.0",
-    "commander": "^3.0.2",
-    "mkdirp": "^0.5.1"
+    "commander": "^6.1.0",
+    "mkdirp": "^1.0.4"
   },
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "eslint-utils": ">=1.4.1",
-    "lodash": ">=4.17.13",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint": "^7.11.0",
+    "eslint-utils": ">=2.1.0",
+    "lodash": ">=4.17.20",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
   }
 }

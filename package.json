@@ -23,7 +23,7 @@
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-utils": ">=2.1.0",
-    "lodash": ">=4.17.20",
+    "lodash": ">=4.17.21",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.1"
   }

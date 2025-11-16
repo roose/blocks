@@ -21,7 +21,7 @@
     "mkdirp": "^1.0.4"
   },
   "devDependencies": {
-    "eslint": "^7.11.0",
+    "eslint": "^9.39.1",
     "eslint-utils": ">=2.1.0",
     "lodash": ">=4.17.21",
     "eslint-config-airbnb-base": "^14.2.0",
